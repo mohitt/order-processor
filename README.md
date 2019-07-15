@@ -25,15 +25,8 @@ dotnet run --project src/OrderProcessor
 ```
 
 
-## Assumptions
+## To reset 
 
-- All version parts are either a single character like 'a', 'A' or a number.
-- Any minor or build version are reset as per the charcter sequence of any character between 'A'-'Z' is reset to 'A' and any character between 'a'-'z' is reset to 'a'
-- 'Major Version' has to be integer, since alphanumeric is cyclic in nature and at somepoint we have to increase the number.
-
-
-## Test Cases
-
-I have implemented around 17 test cases for individual components.
+Delte orders.db in `src/OrderProcessor` directory and run `dotnet ef database update` 
 
 
