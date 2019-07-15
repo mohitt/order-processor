@@ -27,6 +27,6 @@ dotnet run --project src/OrderProcessor
 
 ## To reset 
 
-Delte orders.db in `src/OrderProcessor` directory and run `dotnet ef database update` 
+Delete orders.db in `src/OrderProcessor` directory and run `dotnet ef database update` 
 
 
