@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_OrderProcessor.-1386717840.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="OrderProcessor" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="CreditCardValidator.cs" t="Include" />
+        <e p="EmailSender.cs" t="Include" />
+        <e p="ICreditCardValidator.cs" t="Include" />
+        <e p="IDBContext.cs" t="Include" />
+        <e p="IEmailSender.cs" t="Include" />
+        <e p="IInputReader.cs" t="Include" />
+        <e p="IMessageWriter.cs" t="Include" />
+        <e p="IOrderAcceptor.cs" t="Include" />
+        <e p="IPaymentProcessor.cs" t="Include" />
+        <e p="InputReader.cs" t="Include" />
+        <e p="MessageWriter.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190715082301_SeedAndSchema.Designer.cs" t="Include" />
+          <e p="20190715082301_SeedAndSchema.cs" t="Include" />
+          <e p="OrderDBContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Order.cs" t="Include" />
+        <e p="OrderAcceptor.cs" t="Include" />
+        <e p="OrderDBContext.cs" t="Include" />
+        <e p="OrderProcessor.csproj" t="IncludeRecursive" />
+        <e p="PaymentProcessor.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="OrderProcessor.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="orders.db" t="Include" />
+      </e>
+      <e p="OrderProcessor.Tests" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="OrderAcceptorTests.cs" t="Include" />
+        <e p="OrderProcessor.Tests.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="OrderProcessor.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="OrderProcessor.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="OrderProcessor.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
